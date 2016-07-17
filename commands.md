@@ -10,7 +10,8 @@
 | Esc + t  | Swap previous two words |
 
 # Typed Commands
-|           Command           |                 Action                  |
-|:---------------------------:|-----------------------------------------|
-|            top              | Activity Monitor in terminal (q to quit)|
+|           Command           |                   Action                  |
+|:---------------------------:|-------------------------------------------|
+|            top              | Activity Monitor in terminal (q to quit)  |
 | history \| grep \<command\> | Show recent commands featuring \<command\>|
+|            ls -LR           | List contents of directory recursively    |
